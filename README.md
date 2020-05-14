@@ -12,4 +12,4 @@ but it has two: "description" and "json_tag":
 
 `map[description:s:"blah nah brah" json_tag:s:"pwd"]`
 
-This can be seen in [main.go]()
+This can be seen in [main.go](main.go)
