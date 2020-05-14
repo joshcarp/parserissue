@@ -1,0 +1,5 @@
+Server:
+    !type LoginData:
+        @description = "blah nah brah"
+        password <: sequence of string:
+            @json_tag = "pwd"
